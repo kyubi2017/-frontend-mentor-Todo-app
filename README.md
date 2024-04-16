@@ -38,9 +38,9 @@ Users should be able to:
 
 ### Links
 
-[- Solution URL ]()
+[- Solution URL ](https://github.com/kyubi2017/-frontend-mentor-Todo-app)
 
-[- Live Site URL]()
+[- Live Site URL](https://frontend-mentor-todo-app-sandy.vercel.app/)
 
 ## My process
 
