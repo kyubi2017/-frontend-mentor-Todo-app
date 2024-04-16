@@ -22,31 +22,16 @@ const LOCAL_STORAGE_LIST = 'task.todos';
 let todos = JSON.parse(localStorage.getItem(LOCAL_STORAGE_LIST)) || [
   {
     id: '1',
-    name: 'Complete online JavaScript course',
-    completed: false,
-  },
-  {
-    id: '2',
-    name: 'Jog around the park 3x',
-    completed: false,
-  },
-  {
-    id: '3',
-    name: '10 minutes meditation',
-    completed: false,
-  },
-  {
-    id: '4',
     name: 'Read for 1 hour',
     completed: false,
   },
   {
-    id: '5',
+    id: '2',
     name: 'Pick up groceries',
     completed: false,
   },
   {
-    id: '6',
+    id: '3',
     name: 'Complete Todo App on Frontend Mentor',
     completed: false,
   },
